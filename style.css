@@ -1,4 +1,4 @@
-.fichalanarey{width:410px;max-width:100%;margin:20px auto;padding:20px 23px 0;background:transparent;color:inherit;font:11px/1.35 "Courier New",monospace;box-sizing:border-box;overflow:hidden;border:1px solid #888}
+.fichalanarey{width:410px;max-width:100%;margin:20px auto;padding:20px 23px 0;background:transparent;color:inherit;font:12px/1.35 "Courier New",monospace;box-sizing:border-box;overflow:hidden;border:1px solid #888}
 .fichalanarey *{box-sizing:border-box}
 .fichalanarey .flr-cabecera{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:20px}
 .fichalanarey .flr-imagen-central{width:62%;height:48px;object-fit:cover;display:block}
